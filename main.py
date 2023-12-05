@@ -1,4 +1,4 @@
-f = open('33CitiesInfo.csv','r')
+f = open('points.csv','r')
 
 l = []
 for i in f.readlines():
