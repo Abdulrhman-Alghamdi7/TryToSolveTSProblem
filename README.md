@@ -1,7 +1,7 @@
 # TryToSolveTSProblem
 This project is story of my attempt to solve Travilling salesman problem.
 
-I heard about the problem and I thought, if I go to the nearest point from the current point everytime until complete all points and go back to start point then I will take the shortest way, later I found that i'm wrong. I do the solution and after finishing and test it I thoght that this is the solution but when i search for solutions for the problem i found that the solution is already exist :) no problem.
+I heard about the problem and I thought, if I go to the nearest point from the current point everytime until complete all points and go back to start point then I will take the shortest way, later I found that i'm wrong. I done the solution and after finishing and test it I thoght that this is the solution but when i search for solutions for the problem i found that the solution is already exist :) no problem.
 
 so the solution reads point distances from a CSV file, builds a dictionary to represent the distances between points. The algorithm iteratively select the nearest point between all points aren't visited, updating the optimal path and total distance accordingly. Finally, it prints the optimal path and the total distance traveled, providing an approximate solution to the Traveling Salesman Problem.  
 
